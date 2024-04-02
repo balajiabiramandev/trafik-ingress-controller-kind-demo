@@ -1,6 +1,4 @@
-# Traefik Ingress Controller on Minikube Kubernetes
-
-See https://www.youtube.com/watch?v=-YwOG515M9M
+# Traefik Ingress Controller on Kind Kubernetes
 
 ## Docs used in demo
 
